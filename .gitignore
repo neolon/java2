@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+*.xml
+*.iml
+.idea/
+out/
+*.zip
+*.7z
+*.rar
+
 # Log file
 *.log
 
